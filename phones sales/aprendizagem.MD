@@ -19,4 +19,4 @@
 7. **Criação de relatórios e dashboards**: 
    - Como organizar e distribuir as visualizações em relatórios e dashboards interativos.
 
-![Print Screen]("C:\Users\s1294807\OneDrive - Syngenta\Projetos pessoais - Kauan\PowerBI-projects\phones sales\icons\dashboard.png)
+![Print Screen](./icons/dashboard.png)
